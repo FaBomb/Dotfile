@@ -28,7 +28,7 @@ if has("autocmd")
   autocmd FileType javascriptreact  setlocal sw=2 sts=2 ts=2 et
   autocmd FileType typescriptreact  setlocal sw=2 sts=2 ts=2 et
   autocmd FileType uml              setlocal sw=4 sts=4 ts=4 et
-  autocmd FileType rust               setlocal sw=2 sts=2 ts=2 et
+  autocmd FileType rust             setlocal sw=2 sts=2 ts=2 et
 endif
 
 let g:indentLine_char = '┊'
